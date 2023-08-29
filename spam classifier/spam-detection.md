@@ -106,24 +106,24 @@ df.sample(5)
   </thead>
   <tbody>
     <tr>
-      <th>4110</th>
-      <td>ham\tYo, you gonna still be in stock tomorrow/...</td>
+      <th>1377</th>
+      <td>spam\tDouble Mins &amp; Double Txt &amp; 1/2 price Lin...</td>
     </tr>
     <tr>
-      <th>1194</th>
-      <td>ham\tOk... C ya...</td>
+      <th>24</th>
+      <td>ham\tJust forced myself to eat a slice. I'm re...</td>
     </tr>
     <tr>
-      <th>5015</th>
-      <td>ham\tI think the other two still need to get c...</td>
+      <th>97</th>
+      <td>ham\tHi. Wk been ok - on hols now! Yes on for ...</td>
     </tr>
     <tr>
       <th>1112</th>
       <td>ham\tSo that means you still think of teju</td>
     </tr>
     <tr>
-      <th>529</th>
-      <td>ham\tJay says that you're a double-faggot</td>
+      <th>3709</th>
+      <td>ham\tOk.ok ok..then..whats ur todays plan</td>
     </tr>
   </tbody>
 </table>
@@ -207,24 +207,24 @@ df.sample(5)
   </thead>
   <tbody>
     <tr>
-      <th>3586</th>
-      <td>spam\tI am hot n horny and willing I live loca...</td>
+      <th>3842</th>
+      <td>ham\tchile, please! It's only a  &amp;lt;DECIMAL&amp;g...</td>
     </tr>
     <tr>
-      <th>4922</th>
-      <td>ham\tHi Dear Call me its urgnt. I don't know w...</td>
+      <th>60</th>
+      <td>ham\tHa ha ha good joke. Girls are situation s...</td>
     </tr>
     <tr>
-      <th>3166</th>
-      <td>spam\tHOT LIVE FANTASIES call now 08707509020 ...</td>
+      <th>4959</th>
+      <td>ham\tWhat i mean was i left too early to check...</td>
     </tr>
     <tr>
-      <th>4840</th>
-      <td>spam\tPRIVATE! Your 2003 Account Statement for...</td>
+      <th>1823</th>
+      <td>ham\tSame as u... Dun wan... Y u dun like me a...</td>
     </tr>
     <tr>
-      <th>1301</th>
-      <td>ham\tI tot u reach liao. He said t-shirt.</td>
+      <th>3737</th>
+      <td>ham\tPlz note: if anyone calling from a mobile...</td>
     </tr>
   </tbody>
 </table>
@@ -265,24 +265,24 @@ df.sample(5)
   </thead>
   <tbody>
     <tr>
-      <th>4282</th>
-      <td>ham\tU can call now...</td>
+      <th>3539</th>
+      <td>ham\tWhat happen dear. Why you silent. I am te...</td>
     </tr>
     <tr>
-      <th>4372</th>
-      <td>spam\tUr balance is now £600. Next question: C...</td>
+      <th>721</th>
+      <td>ham\tS'fine. Anytime. All the best with it.</td>
     </tr>
     <tr>
-      <th>3414</th>
-      <td>ham\tNo pic. Please re-send.</td>
+      <th>3424</th>
+      <td>spam\tAm new 2 club &amp; dont fink we met yet Wil...</td>
     </tr>
     <tr>
-      <th>949</th>
-      <td>ham\tIs that what time you want me to come?</td>
+      <th>2241</th>
+      <td>ham\tU buy newspapers already?</td>
     </tr>
     <tr>
-      <th>2745</th>
-      <td>ham\tR ü going 4 today's meeting?</td>
+      <th>3716</th>
+      <td>ham\tNetworking technical support associate.</td>
     </tr>
   </tbody>
 </table>
@@ -314,11 +314,11 @@ print(df.sample(5))
     Index(['ham\tGo until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...'], dtype='object')
     Columns not found: ['unnamed : 2', 'unnamed : 3', 'unnamed : 4']
          ham\tGo until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...
-    185   ham\tHello handsome ! Are you finding that job...                                                                  
-    2051  ham\tHey darlin.. i can pick u up at college i...                                                                  
-    2005  ham\tCan't take any major roles in community o...                                                                  
-    4708  ham\tDid you say bold, then torch later. Or on...                                                                  
-    1663                   ham\tS but mostly not like that.                                                                  
+    2113  ham\tYeah, don't go to bed, I'll be back befor...                                                                  
+    3746        ham\tI'm not. She lip synced with shangela.                                                                  
+    2465                ham\tS.i think he is waste for rr..                                                                  
+    4     spam\tFreeMsg Hey there darling it's been 3 we...                                                                  
+    3985      ham\tWhatever, juliana. Do whatever you want.                                                                  
     
 
 
@@ -388,129 +388,129 @@ df.sample(25)
   </thead>
   <tbody>
     <tr>
-      <th>4622</th>
+      <th>2002</th>
       <td>ham</td>
-      <td>Received, understood n acted upon!</td>
+      <td>Idea will soon get converted to live:)</td>
     </tr>
     <tr>
-      <th>4320</th>
+      <th>1596</th>
       <td>ham</td>
-      <td>Are you still playing with gautham?</td>
+      <td>Pls confirm the time to collect the cheque.</td>
     </tr>
     <tr>
-      <th>3756</th>
+      <th>5365</th>
       <td>ham</td>
-      <td>"Im on gloucesterroad what are uup to later?"</td>
+      <td>I think your mentor is , but not 100 percent s...</td>
     </tr>
     <tr>
-      <th>3110</th>
+      <th>4770</th>
       <td>ham</td>
-      <td>Lol I was gonna last month. I cashed some in b...</td>
+      <td>watever reLation u built up in dis world only ...</td>
     </tr>
     <tr>
-      <th>1109</th>
+      <th>3791</th>
       <td>ham</td>
-      <td>No you'll just get a headache trying to figure...</td>
+      <td>I love you !!! You know? Can you feel it? Does...</td>
     </tr>
     <tr>
-      <th>3124</th>
+      <th>166</th>
       <td>ham</td>
-      <td>He telling not to tell any one. If so treat fo...</td>
+      <td>I place all ur points on e cultures module alr...</td>
     </tr>
     <tr>
-      <th>876</th>
+      <th>858</th>
+      <td>ham</td>
+      <td>Hai ana tomarrow am coming on morning.  &amp;lt;DE...</td>
+    </tr>
+    <tr>
+      <th>838</th>
+      <td>ham</td>
+      <td>Sir, I have been late in paying rent for the p...</td>
+    </tr>
+    <tr>
+      <th>1788</th>
+      <td>ham</td>
+      <td>Yes:)sura in sun tv.:)lol.</td>
+    </tr>
+    <tr>
+      <th>3499</th>
+      <td>ham</td>
+      <td>You said to me before i went back to bed that ...</td>
+    </tr>
+    <tr>
+      <th>1602</th>
+      <td>ham</td>
+      <td>Carlos is taking his sweet time as usual so le...</td>
+    </tr>
+    <tr>
+      <th>893</th>
+      <td>ham</td>
+      <td>Nutter. Cutter. Ctter. Cttergg. Cttargg. Ctarg...</td>
+    </tr>
+    <tr>
+      <th>3612</th>
+      <td>ham</td>
+      <td>No. I.ll meet you in the library</td>
+    </tr>
+    <tr>
+      <th>935</th>
       <td>spam</td>
-      <td>Shop till u Drop, IS IT YOU, either 10K, 5K, £...</td>
+      <td>Dear Matthew please call 09063440451 from a la...</td>
     </tr>
     <tr>
-      <th>4682</th>
-      <td>ham</td>
-      <td>Are you staying in town ?</td>
-    </tr>
-    <tr>
-      <th>2166</th>
-      <td>ham</td>
-      <td>I'm not coming home 4 dinner.</td>
-    </tr>
-    <tr>
-      <th>1054</th>
-      <td>ham</td>
-      <td>Jay's getting really impatient and belligerent</td>
-    </tr>
-    <tr>
-      <th>575</th>
-      <td>ham</td>
-      <td>Nope i waiting in sch 4 daddy...</td>
-    </tr>
-    <tr>
-      <th>713</th>
+      <th>4629</th>
       <td>spam</td>
-      <td>08714712388 between 10am-7pm Cost 10p</td>
+      <td>Todays Voda numbers ending with 7634 are selec...</td>
     </tr>
     <tr>
-      <th>886</th>
+      <th>1036</th>
       <td>ham</td>
-      <td>Gibbs unsold.mike hussey</td>
+      <td>Hello baby, did you get back to your mom's ? A...</td>
     </tr>
     <tr>
-      <th>2870</th>
+      <th>3104</th>
       <td>ham</td>
-      <td>House-Maid is the murderer, coz the man was mu...</td>
+      <td>U so lousy, run already come back then half de...</td>
     </tr>
     <tr>
-      <th>3378</th>
+      <th>2271</th>
       <td>ham</td>
-      <td>Yup. Wun believe wat? U really neva c e msg i ...</td>
+      <td>U know we watchin at lido?</td>
     </tr>
     <tr>
-      <th>955</th>
+      <th>3259</th>
+      <td>ham</td>
+      <td>He fucking chickened out. He messaged me he wo...</td>
+    </tr>
+    <tr>
+      <th>3548</th>
       <td>spam</td>
-      <td>Filthy stories and GIRLS waiting for your</td>
+      <td>Rock yr chik. Get 100's of filthy films &amp;XXX p...</td>
     </tr>
     <tr>
-      <th>2384</th>
+      <th>3390</th>
       <td>ham</td>
-      <td>Your pussy is perfect!</td>
+      <td>O. Guess they both got screwd</td>
     </tr>
     <tr>
-      <th>4064</th>
-      <td>ham</td>
-      <td>How are you. Its been ages. How's abj</td>
+      <th>517</th>
+      <td>spam</td>
+      <td>Boltblue tones for 150p Reply POLY# or MONO# e...</td>
     </tr>
     <tr>
-      <th>2492</th>
+      <th>4736</th>
       <td>ham</td>
-      <td>Greetings me, ! Consider yourself excused.</td>
+      <td>Oh k:)after that placement there ah?</td>
     </tr>
     <tr>
-      <th>2391</th>
+      <th>816</th>
       <td>ham</td>
-      <td>First has she gained more than  &amp;lt;#&amp;gt; kg s...</td>
+      <td>Where's my boytoy? I miss you ... What happened?</td>
     </tr>
     <tr>
-      <th>3061</th>
+      <th>3867</th>
       <td>ham</td>
-      <td>K..k...from tomorrow onwards started ah?</td>
-    </tr>
-    <tr>
-      <th>2483</th>
-      <td>ham</td>
-      <td>Pansy! You've been living in a jungle for two ...</td>
-    </tr>
-    <tr>
-      <th>4613</th>
-      <td>ham</td>
-      <td>Sorry da. I gone mad so many pending works wha...</td>
-    </tr>
-    <tr>
-      <th>3909</th>
-      <td>ham</td>
-      <td>Sounds like a plan! Cardiff is still here and ...</td>
-    </tr>
-    <tr>
-      <th>3601</th>
-      <td>ham</td>
-      <td>I know you mood off today</td>
+      <td>Theoretically yeah, he could be able to come</td>
     </tr>
   </tbody>
 </table>
@@ -688,8 +688,8 @@ plt.pie(df['target'].value_counts(), labels=['ham','spam'], autopct="%0.2f")
 
 
 
-    ([<matplotlib.patches.Wedge at 0x1847c675ad0>,
-      <matplotlib.patches.Wedge at 0x1847c677e10>],
+    ([<matplotlib.patches.Wedge at 0x18952f72290>,
+      <matplotlib.patches.Wedge at 0x18952fbff50>],
      [Text(-1.0170346463201791, 0.4190948916228736, 'ham'),
       Text(1.0170346267009303, -0.4190949392337011, 'spam')],
      [Text(-0.5547461707200977, 0.22859721361247648, '87.56'),
@@ -779,7 +779,6 @@ df.head()
       <th>text</th>
       <th>num_characters</th>
       <th>num_words</th>
-      <th>num_sentences</th>
     </tr>
   </thead>
   <tbody>
@@ -789,7 +788,6 @@ df.head()
       <td>Go until jurong point, crazy.. Available only ...</td>
       <td>111</td>
       <td>24</td>
-      <td>2</td>
     </tr>
     <tr>
       <th>1</th>
@@ -797,7 +795,6 @@ df.head()
       <td>Ok lar... Joking wif u oni...</td>
       <td>29</td>
       <td>8</td>
-      <td>2</td>
     </tr>
     <tr>
       <th>2</th>
@@ -805,7 +802,6 @@ df.head()
       <td>Free entry in 2 a wkly comp to win FA Cup fina...</td>
       <td>155</td>
       <td>37</td>
-      <td>2</td>
     </tr>
     <tr>
       <th>3</th>
@@ -813,7 +809,6 @@ df.head()
       <td>U dun say so early hor... U c already then say...</td>
       <td>49</td>
       <td>13</td>
-      <td>1</td>
     </tr>
     <tr>
       <th>4</th>
@@ -821,7 +816,6 @@ df.head()
       <td>Nah I don't think he goes to usf, he lives aro...</td>
       <td>61</td>
       <td>15</td>
-      <td>1</td>
     </tr>
   </tbody>
 </table>
@@ -866,7 +860,6 @@ df.head()
       <th>text</th>
       <th>num_characters</th>
       <th>num_words</th>
-      <th>num_sentences</th>
     </tr>
   </thead>
   <tbody>
@@ -876,7 +869,6 @@ df.head()
       <td>Go until jurong point, crazy.. Available only ...</td>
       <td>111</td>
       <td>24</td>
-      <td>2</td>
     </tr>
     <tr>
       <th>1</th>
@@ -884,7 +876,6 @@ df.head()
       <td>Ok lar... Joking wif u oni...</td>
       <td>29</td>
       <td>8</td>
-      <td>2</td>
     </tr>
     <tr>
       <th>2</th>
@@ -892,7 +883,6 @@ df.head()
       <td>Free entry in 2 a wkly comp to win FA Cup fina...</td>
       <td>155</td>
       <td>37</td>
-      <td>2</td>
     </tr>
     <tr>
       <th>3</th>
@@ -900,7 +890,6 @@ df.head()
       <td>U dun say so early hor... U c already then say...</td>
       <td>49</td>
       <td>13</td>
-      <td>1</td>
     </tr>
     <tr>
       <th>4</th>
@@ -908,7 +897,6 @@ df.head()
       <td>Nah I don't think he goes to usf, he lives aro...</td>
       <td>61</td>
       <td>15</td>
-      <td>1</td>
     </tr>
   </tbody>
 </table>
@@ -1440,7 +1428,7 @@ sns.pairplot(df, hue = 'target')
 
 
 
-    <seaborn.axisgrid.PairGrid at 0x1847e2649d0>
+    <seaborn.axisgrid.PairGrid at 0x18955973250>
 
 
 
@@ -1456,7 +1444,7 @@ sns.pairplot(df, hue = 'target')
 df.corr()
 ```
 
-    C:\Users\happy\AppData\Local\Temp\ipykernel_5288\1939837678.py:2: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
+    C:\Users\happy\AppData\Local\Temp\ipykernel_18556\1939837678.py:2: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
       df.corr()
     
 
@@ -1527,7 +1515,7 @@ df.corr()
 sns.heatmap(df.corr(), annot=True)
 ```
 
-    C:\Users\happy\AppData\Local\Temp\ipykernel_5288\621126171.py:1: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
+    C:\Users\happy\AppData\Local\Temp\ipykernel_18556\621126171.py:1: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
       sns.heatmap(df.corr(), annot=True)
     
 
@@ -2125,7 +2113,8 @@ pip install matplotlib
 
 ```
 
-    Requirement already satisfied: matplotlib in c:\users\happy\anaconda3\lib\site-packages (3.7.1)
+    Requirement already satisfied: matplotlib in c:\users\happy\anaconda3\lib\site-packages (3.7.1)Note: you may need to restart the kernel to use updated packages.
+    
     Requirement already satisfied: contourpy>=1.0.1 in c:\users\happy\anaconda3\lib\site-packages (from matplotlib) (1.0.5)
     Requirement already satisfied: cycler>=0.10 in c:\users\happy\anaconda3\lib\site-packages (from matplotlib) (0.11.0)
     Requirement already satisfied: fonttools>=4.22.0 in c:\users\happy\anaconda3\lib\site-packages (from matplotlib) (4.25.0)
@@ -2136,7 +2125,6 @@ pip install matplotlib
     Requirement already satisfied: pyparsing>=2.3.1 in c:\users\happy\anaconda3\lib\site-packages (from matplotlib) (3.0.9)
     Requirement already satisfied: python-dateutil>=2.7 in c:\users\happy\anaconda3\lib\site-packages (from matplotlib) (2.8.2)
     Requirement already satisfied: six>=1.5 in c:\users\happy\anaconda3\lib\site-packages (from python-dateutil>=2.7->matplotlib) (1.16.0)
-    Note: you may need to restart the kernel to use updated packages.
     
 
 
@@ -2144,7 +2132,8 @@ pip install matplotlib
 pip install wordcloud
 ```
 
-    Requirement already satisfied: wordcloud in c:\users\happy\anaconda3\lib\site-packages (1.9.2)
+    Requirement already satisfied: wordcloud in c:\users\happy\anaconda3\lib\site-packages (1.9.2)Note: you may need to restart the kernel to use updated packages.
+    
     Requirement already satisfied: numpy>=1.6.1 in c:\users\happy\anaconda3\lib\site-packages (from wordcloud) (1.24.3)
     Requirement already satisfied: pillow in c:\users\happy\anaconda3\lib\site-packages (from wordcloud) (9.4.0)
     Requirement already satisfied: matplotlib in c:\users\happy\anaconda3\lib\site-packages (from wordcloud) (3.7.1)
@@ -2156,7 +2145,6 @@ pip install wordcloud
     Requirement already satisfied: pyparsing>=2.3.1 in c:\users\happy\anaconda3\lib\site-packages (from matplotlib->wordcloud) (3.0.9)
     Requirement already satisfied: python-dateutil>=2.7 in c:\users\happy\anaconda3\lib\site-packages (from matplotlib->wordcloud) (2.8.2)
     Requirement already satisfied: six>=1.5 in c:\users\happy\anaconda3\lib\site-packages (from python-dateutil>=2.7->matplotlib->wordcloud) (1.16.0)
-    Note: you may need to restart the kernel to use updated packages.
     
 
 
@@ -2181,7 +2169,7 @@ plt.imshow(spam_wc)
 
 
 
-    <matplotlib.image.AxesImage at 0x1847e354e50>
+    <matplotlib.image.AxesImage at 0x18956fb0bd0>
 
 
 
@@ -2205,7 +2193,7 @@ plt.imshow(ham_wc)
 
 
 
-    <matplotlib.image.AxesImage at 0x184018f4e50>
+    <matplotlib.image.AxesImage at 0x18958648bd0>
 
 
 
@@ -8360,6 +8348,87 @@ df.head()
 ```
 
 
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>target</th>
+      <th>text</th>
+      <th>num_characters</th>
+      <th>num_words</th>
+      <th>num_sentences</th>
+      <th>transformed_text</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>0</td>
+      <td>Go until jurong point, crazy.. Available only ...</td>
+      <td>111</td>
+      <td>24</td>
+      <td>2</td>
+      <td>go jurong point crazi avail bugi n great world...</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>0</td>
+      <td>Ok lar... Joking wif u oni...</td>
+      <td>29</td>
+      <td>8</td>
+      <td>2</td>
+      <td>ok lar joke wif u oni</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>1</td>
+      <td>Free entry in 2 a wkly comp to win FA Cup fina...</td>
+      <td>155</td>
+      <td>37</td>
+      <td>2</td>
+      <td>free entri 2 wkli comp win fa cup final tkt 21...</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>0</td>
+      <td>U dun say so early hor... U c already then say...</td>
+      <td>49</td>
+      <td>13</td>
+      <td>1</td>
+      <td>u dun say earli hor u c alreadi say</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>0</td>
+      <td>Nah I don't think he goes to usf, he lives aro...</td>
+      <td>61</td>
+      <td>15</td>
+      <td>1</td>
+      <td>nah think goe usf live around though</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
 ```python
 accuracy_scores = []
 precision_scores = []
@@ -8376,15 +8445,149 @@ for name,clf in clfs.items():
     precision_scores.append(current_precision)
 ```
 
+    For  SVC
+    Accuracy -  0.9689922480620154
+    Precision -  0.9285714285714286
+    For  KN
+    Accuracy -  0.9098837209302325
+    Precision -  1.0
+    For  NB
+    Accuracy -  0.9641472868217055
+    Precision -  1.0
+    For  DT
+    Accuracy -  0.9515503875968992
+    Precision -  0.8928571428571429
+    For  LR
+    Accuracy -  0.9486434108527132
+    Precision -  0.8795180722891566
+    For  RF
+    Accuracy -  0.9689922480620154
+    Precision -  0.9772727272727273
+    For  AdaBoost
+    Accuracy -  0.9612403100775194
+    Precision -  0.9042553191489362
+    For  BgC
+    Accuracy -  0.9709302325581395
+    Precision -  0.8909090909090909
+    For  ETC
+    Accuracy -  0.9757751937984496
+    Precision -  0.989247311827957
+    For  GBDT
+    Accuracy -  0.9554263565891473
+    Precision -  0.9605263157894737
+    For  xgb
+    Accuracy -  0.9709302325581395
+    Precision -  0.9215686274509803
+    
+
 
 ```python
-performance_df = pd.DataFrame({'Algorithm':clfs.keys(),'Accuracy':accuracy_scores,'Precision'
+performance_df = pd.DataFrame({'Algorithm': clfs.keys(), 'Accuracy': accuracy_scores, 'Precision': precision_scores})
 ```
 
 
 ```python
 performance_df
 ```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Algorithm</th>
+      <th>Accuracy</th>
+      <th>Precision</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>SVC</td>
+      <td>0.968992</td>
+      <td>0.928571</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>KN</td>
+      <td>0.909884</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>NB</td>
+      <td>0.964147</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>DT</td>
+      <td>0.951550</td>
+      <td>0.892857</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>LR</td>
+      <td>0.948643</td>
+      <td>0.879518</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>RF</td>
+      <td>0.968992</td>
+      <td>0.977273</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>AdaBoost</td>
+      <td>0.961240</td>
+      <td>0.904255</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>BgC</td>
+      <td>0.970930</td>
+      <td>0.890909</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>ETC</td>
+      <td>0.975775</td>
+      <td>0.989247</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>GBDT</td>
+      <td>0.955426</td>
+      <td>0.960526</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>xgb</td>
+      <td>0.970930</td>
+      <td>0.921569</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
 
 
 ```python
@@ -8397,6 +8600,171 @@ performance_df1
 ```
 
 
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Algorithm</th>
+      <th>variable</th>
+      <th>value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>SVC</td>
+      <td>Accuracy</td>
+      <td>0.968992</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>KN</td>
+      <td>Accuracy</td>
+      <td>0.909884</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>NB</td>
+      <td>Accuracy</td>
+      <td>0.964147</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>DT</td>
+      <td>Accuracy</td>
+      <td>0.951550</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>LR</td>
+      <td>Accuracy</td>
+      <td>0.948643</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>RF</td>
+      <td>Accuracy</td>
+      <td>0.968992</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>AdaBoost</td>
+      <td>Accuracy</td>
+      <td>0.961240</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>BgC</td>
+      <td>Accuracy</td>
+      <td>0.970930</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>ETC</td>
+      <td>Accuracy</td>
+      <td>0.975775</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>GBDT</td>
+      <td>Accuracy</td>
+      <td>0.955426</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>xgb</td>
+      <td>Accuracy</td>
+      <td>0.970930</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>SVC</td>
+      <td>Precision</td>
+      <td>0.928571</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>KN</td>
+      <td>Precision</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>NB</td>
+      <td>Precision</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>DT</td>
+      <td>Precision</td>
+      <td>0.892857</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>LR</td>
+      <td>Precision</td>
+      <td>0.879518</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>RF</td>
+      <td>Precision</td>
+      <td>0.977273</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>AdaBoost</td>
+      <td>Precision</td>
+      <td>0.904255</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>BgC</td>
+      <td>Precision</td>
+      <td>0.890909</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>ETC</td>
+      <td>Precision</td>
+      <td>0.989247</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>GBDT</td>
+      <td>Precision</td>
+      <td>0.960526</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>xgb</td>
+      <td>Precision</td>
+      <td>0.921569</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
 ```python
 sns.catplot(x = 'Algorithm', y='value', 
                hue = 'variable',data=performance_df1, kind='bar',height=5)
@@ -8404,6 +8772,12 @@ plt.ylim(0.5,1.0)
 plt.xticks(rotation='vertical')
 plt.show()
 ```
+
+
+    
+![png](output_122_0.png)
+    
+
 
 
 ```python
@@ -8445,6 +8819,177 @@ new_df_scaled.merge(temp_df,on='Algorithm')
 ```
 
 
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Algorithm</th>
+      <th>Accuracy</th>
+      <th>Precision</th>
+      <th>Accuracy_scaling_x</th>
+      <th>Precision_scaling_x</th>
+      <th>Accuracy_scaling_y</th>
+      <th>Precision_scaling_y</th>
+      <th>Accuracy_num_chars</th>
+      <th>Precision_num_chars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>SVC</td>
+      <td>0.968992</td>
+      <td>0.928571</td>
+      <td>0.968992</td>
+      <td>0.928571</td>
+      <td>0.968992</td>
+      <td>0.928571</td>
+      <td>0.968992</td>
+      <td>0.928571</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>KN</td>
+      <td>0.909884</td>
+      <td>1.000000</td>
+      <td>0.909884</td>
+      <td>1.000000</td>
+      <td>0.909884</td>
+      <td>1.000000</td>
+      <td>0.909884</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>NB</td>
+      <td>0.964147</td>
+      <td>1.000000</td>
+      <td>0.964147</td>
+      <td>1.000000</td>
+      <td>0.964147</td>
+      <td>1.000000</td>
+      <td>0.964147</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>DT</td>
+      <td>0.951550</td>
+      <td>0.892857</td>
+      <td>0.951550</td>
+      <td>0.892857</td>
+      <td>0.951550</td>
+      <td>0.892857</td>
+      <td>0.951550</td>
+      <td>0.892857</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>LR</td>
+      <td>0.948643</td>
+      <td>0.879518</td>
+      <td>0.948643</td>
+      <td>0.879518</td>
+      <td>0.948643</td>
+      <td>0.879518</td>
+      <td>0.948643</td>
+      <td>0.879518</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>RF</td>
+      <td>0.968992</td>
+      <td>0.977273</td>
+      <td>0.968992</td>
+      <td>0.977273</td>
+      <td>0.968992</td>
+      <td>0.977273</td>
+      <td>0.968992</td>
+      <td>0.977273</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>AdaBoost</td>
+      <td>0.961240</td>
+      <td>0.904255</td>
+      <td>0.961240</td>
+      <td>0.904255</td>
+      <td>0.961240</td>
+      <td>0.904255</td>
+      <td>0.961240</td>
+      <td>0.904255</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>BgC</td>
+      <td>0.970930</td>
+      <td>0.890909</td>
+      <td>0.970930</td>
+      <td>0.890909</td>
+      <td>0.970930</td>
+      <td>0.890909</td>
+      <td>0.970930</td>
+      <td>0.890909</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>ETC</td>
+      <td>0.975775</td>
+      <td>0.989247</td>
+      <td>0.975775</td>
+      <td>0.989247</td>
+      <td>0.975775</td>
+      <td>0.989247</td>
+      <td>0.975775</td>
+      <td>0.989247</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>GBDT</td>
+      <td>0.955426</td>
+      <td>0.960526</td>
+      <td>0.955426</td>
+      <td>0.960526</td>
+      <td>0.955426</td>
+      <td>0.960526</td>
+      <td>0.955426</td>
+      <td>0.960526</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>xgb</td>
+      <td>0.970930</td>
+      <td>0.921569</td>
+      <td>0.970930</td>
+      <td>0.921569</td>
+      <td>0.970930</td>
+      <td>0.921569</td>
+      <td>0.970930</td>
+      <td>0.921569</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
 ```python
 # Voting Classifier
 svc = SVC(kernel='sigmoid', gamma=1.0,probability=True)
@@ -8465,11 +9010,36 @@ voting.fit(X_train,y_train)
 ```
 
 
+
+
+<style>#sk-container-id-4 {color: black;background-color: white;}#sk-container-id-4 pre{padding: 0;}#sk-container-id-4 div.sk-toggleable {background-color: white;}#sk-container-id-4 label.sk-toggleable__label {cursor: pointer;display: block;width: 100%;margin-bottom: 0;padding: 0.3em;box-sizing: border-box;text-align: center;}#sk-container-id-4 label.sk-toggleable__label-arrow:before {content: "▸";float: left;margin-right: 0.25em;color: #696969;}#sk-container-id-4 label.sk-toggleable__label-arrow:hover:before {color: black;}#sk-container-id-4 div.sk-estimator:hover label.sk-toggleable__label-arrow:before {color: black;}#sk-container-id-4 div.sk-toggleable__content {max-height: 0;max-width: 0;overflow: hidden;text-align: left;background-color: #f0f8ff;}#sk-container-id-4 div.sk-toggleable__content pre {margin: 0.2em;color: black;border-radius: 0.25em;background-color: #f0f8ff;}#sk-container-id-4 input.sk-toggleable__control:checked~div.sk-toggleable__content {max-height: 200px;max-width: 100%;overflow: auto;}#sk-container-id-4 input.sk-toggleable__control:checked~label.sk-toggleable__label-arrow:before {content: "▾";}#sk-container-id-4 div.sk-estimator input.sk-toggleable__control:checked~label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-4 div.sk-label input.sk-toggleable__control:checked~label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-4 input.sk-hidden--visually {border: 0;clip: rect(1px 1px 1px 1px);clip: rect(1px, 1px, 1px, 1px);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width: 1px;}#sk-container-id-4 div.sk-estimator {font-family: monospace;background-color: #f0f8ff;border: 1px dotted black;border-radius: 0.25em;box-sizing: border-box;margin-bottom: 0.5em;}#sk-container-id-4 div.sk-estimator:hover {background-color: #d4ebff;}#sk-container-id-4 div.sk-parallel-item::after {content: "";width: 100%;border-bottom: 1px solid gray;flex-grow: 1;}#sk-container-id-4 div.sk-label:hover label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-4 div.sk-serial::before {content: "";position: absolute;border-left: 1px solid gray;box-sizing: border-box;top: 0;bottom: 0;left: 50%;z-index: 0;}#sk-container-id-4 div.sk-serial {display: flex;flex-direction: column;align-items: center;background-color: white;padding-right: 0.2em;padding-left: 0.2em;position: relative;}#sk-container-id-4 div.sk-item {position: relative;z-index: 1;}#sk-container-id-4 div.sk-parallel {display: flex;align-items: stretch;justify-content: center;background-color: white;position: relative;}#sk-container-id-4 div.sk-item::before, #sk-container-id-4 div.sk-parallel-item::before {content: "";position: absolute;border-left: 1px solid gray;box-sizing: border-box;top: 0;bottom: 0;left: 50%;z-index: -1;}#sk-container-id-4 div.sk-parallel-item {display: flex;flex-direction: column;z-index: 1;position: relative;background-color: white;}#sk-container-id-4 div.sk-parallel-item:first-child::after {align-self: flex-end;width: 50%;}#sk-container-id-4 div.sk-parallel-item:last-child::after {align-self: flex-start;width: 50%;}#sk-container-id-4 div.sk-parallel-item:only-child::after {width: 0;}#sk-container-id-4 div.sk-dashed-wrapped {border: 1px dashed gray;margin: 0 0.4em 0.5em 0.4em;box-sizing: border-box;padding-bottom: 0.4em;background-color: white;}#sk-container-id-4 div.sk-label label {font-family: monospace;font-weight: bold;display: inline-block;line-height: 1.2em;}#sk-container-id-4 div.sk-label-container {text-align: center;}#sk-container-id-4 div.sk-container {/* jupyter's `normalize.less` sets `[hidden] { display: none; }` but bootstrap.min.css set `[hidden] { display: none !important; }` so we also need the `!important` here to be able to override the default hidden behavior on the sphinx rendered scikit-learn.org. See: https://github.com/scikit-learn/scikit-learn/issues/21755 */display: inline-block !important;position: relative;}#sk-container-id-4 div.sk-text-repr-fallback {display: none;}</style><div id="sk-container-id-4" class="sk-top-container"><div class="sk-text-repr-fallback"><pre>VotingClassifier(estimators=[(&#x27;svm&#x27;,
+                              SVC(gamma=1.0, kernel=&#x27;sigmoid&#x27;,
+                                  probability=True)),
+                             (&#x27;nb&#x27;, MultinomialNB()),
+                             (&#x27;et&#x27;,
+                              ExtraTreesClassifier(n_estimators=50,
+                                                   random_state=2))],
+                 voting=&#x27;soft&#x27;)</pre><b>In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. <br />On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.</b></div><div class="sk-container" hidden><div class="sk-item sk-dashed-wrapped"><div class="sk-label-container"><div class="sk-label sk-toggleable"><input class="sk-toggleable__control sk-hidden--visually" id="sk-estimator-id-13" type="checkbox" ><label for="sk-estimator-id-13" class="sk-toggleable__label sk-toggleable__label-arrow">VotingClassifier</label><div class="sk-toggleable__content"><pre>VotingClassifier(estimators=[(&#x27;svm&#x27;,
+                              SVC(gamma=1.0, kernel=&#x27;sigmoid&#x27;,
+                                  probability=True)),
+                             (&#x27;nb&#x27;, MultinomialNB()),
+                             (&#x27;et&#x27;,
+                              ExtraTreesClassifier(n_estimators=50,
+                                                   random_state=2))],
+                 voting=&#x27;soft&#x27;)</pre></div></div></div><div class="sk-parallel"><div class="sk-parallel-item"><div class="sk-item"><div class="sk-label-container"><div class="sk-label sk-toggleable"><label>svm</label></div></div><div class="sk-serial"><div class="sk-item"><div class="sk-estimator sk-toggleable"><input class="sk-toggleable__control sk-hidden--visually" id="sk-estimator-id-14" type="checkbox" ><label for="sk-estimator-id-14" class="sk-toggleable__label sk-toggleable__label-arrow">SVC</label><div class="sk-toggleable__content"><pre>SVC(gamma=1.0, kernel=&#x27;sigmoid&#x27;, probability=True)</pre></div></div></div></div></div></div><div class="sk-parallel-item"><div class="sk-item"><div class="sk-label-container"><div class="sk-label sk-toggleable"><label>nb</label></div></div><div class="sk-serial"><div class="sk-item"><div class="sk-estimator sk-toggleable"><input class="sk-toggleable__control sk-hidden--visually" id="sk-estimator-id-15" type="checkbox" ><label for="sk-estimator-id-15" class="sk-toggleable__label sk-toggleable__label-arrow">MultinomialNB</label><div class="sk-toggleable__content"><pre>MultinomialNB()</pre></div></div></div></div></div></div><div class="sk-parallel-item"><div class="sk-item"><div class="sk-label-container"><div class="sk-label sk-toggleable"><label>et</label></div></div><div class="sk-serial"><div class="sk-item"><div class="sk-estimator sk-toggleable"><input class="sk-toggleable__control sk-hidden--visually" id="sk-estimator-id-16" type="checkbox" ><label for="sk-estimator-id-16" class="sk-toggleable__label sk-toggleable__label-arrow">ExtraTreesClassifier</label><div class="sk-toggleable__content"><pre>ExtraTreesClassifier(n_estimators=50, random_state=2)</pre></div></div></div></div></div></div></div></div></div></div>
+
+
+
+
 ```python
 y_pred = voting.predict(X_test)
 print("Accuracy",accuracy_score(y_test,y_pred))
 print("Precision",precision_score(y_test,y_pred))
 ```
+
+    Accuracy 0.9748062015503876
+    Precision 0.9787234042553191
+    
 
 
 ```python
@@ -8496,6 +9066,10 @@ print("Accuracy",accuracy_score(y_test,y_pred))
 print("Precision",precision_score(y_test,y_pred))
 
 ```
+
+    Accuracy 0.9844961240310077
+    Precision 0.9464285714285714
+    
 
 
 ```python
